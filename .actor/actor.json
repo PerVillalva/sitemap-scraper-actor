@@ -1,0 +1,12 @@
+{
+    "actorSpecification": 1,
+    "name": "sitemap-scraper",
+    "title": "Sitemap Scraper Actor",
+    "description": "The Sitemap Scraper extracts and outputs all URLs from a given sitemap.",
+    "version": "0.0",
+    "meta": {
+        "templateId": "ts-crawlee-cheerio"
+    },
+    "input": "./input_schema.json",
+    "dockerfile": "./Dockerfile"
+}

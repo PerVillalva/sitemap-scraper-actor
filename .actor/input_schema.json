@@ -1,0 +1,18 @@
+{
+    "title": "Sitemap Scraper Actor",
+    "type": "object",
+    "schemaVersion": 1,
+    "properties": {
+        "startUrls": {
+            "title": "Sitemap URL",
+            "type": "array",
+            "description": "Sitemap URLs to start with.",
+            "editor": "requestListSources",
+            "prefill": [
+                {
+                    "url": "https://www.scrapingbee.com/sitemap.xml"
+                }
+            ]
+        }
+    }
+}
