@@ -10,7 +10,7 @@
             "editor": "requestListSources",
             "prefill": [
                 {
-                    "url": "https://www.scrapingbee.com/sitemap.xml"
+                    "url": "https://www.apify.com/sitemap.xml"
                 }
             ]
         }
