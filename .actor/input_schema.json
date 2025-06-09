@@ -10,7 +10,7 @@
             "editor": "requestListSources",
             "prefill": [
                 {
-                    "url": "https://www.apify.com/sitemap.xml"
+                    "url": "https://blog.apify.com/sitemap.xml"
                 }
             ]
         }
